@@ -7,7 +7,7 @@ This project is all about building an intelligent chat assistant that acts like 
 * Look things up on the web live — so when you ask about the latest wine trends or news, it’s got your back.
 * Give you today's weather info in Napa Valley or anywhere else you want (so you know if it’s a sunny day for your visit!).
 * It’s designed to be fast, accurate, and flexible, so chatting feels smooth and natural.
-# How to Get It Running
+# How to Get It Setup and Running
 1. Get the code
 bash
 git clone https://github.com/your-username/napa-wine-concierge.git
